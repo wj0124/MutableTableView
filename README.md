@@ -13,8 +13,12 @@
 - [x] 使用方式简单，0 依赖，纯 UIKit 环境可直接集成
 
 ## 🖼️ 效果预览
+![IMG_6791](https://github.com/user-attachments/assets/e15a2e29-340e-454d-ad0f-190dbb77fc45)
 
-> （建议放一张截图或 GIF 演示）
+
+
+
+> 
 
 ## 🧱 使用方式
 
